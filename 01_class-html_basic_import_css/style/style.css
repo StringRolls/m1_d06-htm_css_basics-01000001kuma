@@ -1,0 +1,47 @@
+̣ ̣section {
+    background-color: lightgrey;
+  }
+  
+  .hero {
+    width: 100vw;
+    height: 50vh;
+  }
+  
+  .ltgry {
+    background-color: lightgreen;
+  }
+  
+  .ltgrn {
+    background-color: lightblue;
+  }
+  
+  .hero h1 {
+    text-transform: uppercase;
+  }
+  
+  .h1uppercase {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .hero p {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .gallery > p {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  header nav [href*="index"] {
+    color: red;
+    border: solid red 2px;
+  }
+  
